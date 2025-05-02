@@ -1,11 +1,10 @@
 
-## 💱 Sprint 2 – Conversor de Moedas com API
+## 💱 Sprint 2 – Currency converter with API
 
-**Feito por:** Fernando  Acauan, Thiago Tarantino, Ana Cristina Schmidt, Lorenzo Bueno.
+**Made by:** Fernando Acauan, Thiago Tarantino, Ana Cristina Schmidt, Lorenzo Bueno.
 
-Nesta sprint do **Grupo de Estudos AGES**, o desafio foi desenvolver um projeto que consumisse uma **API externa**, com tema sugerido como **conversão de moedas**.
+In this sprint of the **AGES Study Group**, the challenge was to develop a project that consumed an **external API**, with a suggested theme of **Currency conversion**.
 
-O grupo criar um **aplicativo de conversão de moedas**. A escolha foi motivada pelo desafio técnico e pelo potencial de aprendizado no uso de APIs.
+The group created a **Currency conversion application**. The choice was motivated by the technical challenge and the potential for learning in the use of APIs.
 
-O projeto teve duração de cerca de **duas semanas**, e cada integrante enfrentou obstáculos diferentes ao longo do caminho. Para mim, essa sprint foi especialmente significativa, pois pude **coordenar o grupo**, contribuir ativamente e garantir que a entrega fosse realizada com sucesso.
-
+The project lasted about **two weeks**, and each member faced different obstacles along the way. For me, this sprint was especially significant, as I was able to **coordinate the group**, actively contribute and ensure that the delivery was successful.
